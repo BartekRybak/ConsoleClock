@@ -1,0 +1,4 @@
+C:\Users\ShadeHero\Documents\Projects\ShadeClock\ShadeClock\bin\Debug\ShadeClock.exe
+C:\Users\ShadeHero\Documents\Projects\ShadeClock\ShadeClock\bin\Debug\ShadeClock.pdb
+C:\Users\ShadeHero\Documents\Projects\ShadeClock\ShadeClock\obj\x86\Debug\ShadeClock.exe
+C:\Users\ShadeHero\Documents\Projects\ShadeClock\ShadeClock\obj\x86\Debug\ShadeClock.pdb
